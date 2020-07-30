@@ -1,0 +1,837 @@
+{
+  "href" : "https://api.spotify.com/v1/playlists/29zfCJASL46KuWc5arR8dv/tracks?offset=0&limit=100",
+  "items" : [ {
+    "added_at" : "2019-05-04T17:19:44Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1mbgj8ERPs8lWi7t5cYrdy",
+          "id" : "1mbgj8ERPs8lWi7t5cYrdy",
+          "name" : "Zaz",
+          "type" : "artist",
+          "uri" : "spotify:artist:1mbgj8ERPs8lWi7t5cYrdy"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6MuoqipFgorIZEYwGWEFAU",
+        "id" : "6MuoqipFgorIZEYwGWEFAU",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2733b5969aba116e8248a3e6369",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e023b5969aba116e8248a3e6369",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048513b5969aba116e8248a3e6369",
+          "width" : 64
+        } ],
+        "name" : "Zaz",
+        "release_date" : "2010-05-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6MuoqipFgorIZEYwGWEFAU"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mbgj8ERPs8lWi7t5cYrdy",
+        "id" : "1mbgj8ERPs8lWi7t5cYrdy",
+        "name" : "Zaz",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mbgj8ERPs8lWi7t5cYrdy"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 213420,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR2PY1000020"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6x53YxdtkR2rGLptZCLgUx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6x53YxdtkR2rGLptZCLgUx",
+      "id" : "6x53YxdtkR2rGLptZCLgUx",
+      "is_local" : false,
+      "name" : "Les passants",
+      "popularity" : 59,
+      "preview_url" : "https://p.scdn.co/mp3-preview/feac63e9fce242e994df1395465b015a205fbfc8?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6x53YxdtkR2rGLptZCLgUx"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-05-04T17:21:21Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1mbgj8ERPs8lWi7t5cYrdy",
+          "id" : "1mbgj8ERPs8lWi7t5cYrdy",
+          "name" : "Zaz",
+          "type" : "artist",
+          "uri" : "spotify:artist:1mbgj8ERPs8lWi7t5cYrdy"
+        } ],
+        "available_markets" : [ "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DZ", "EC", "EE", "EG", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JO", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7iXV74Ij5lEvt6Msi4e12z"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7iXV74Ij5lEvt6Msi4e12z",
+        "id" : "7iXV74Ij5lEvt6Msi4e12z",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27343ddfb314d892a8f3864a57f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0243ddfb314d892a8f3864a57f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485143ddfb314d892a8f3864a57f",
+          "width" : 64
+        } ],
+        "name" : "Paris",
+        "release_date" : "2014-11-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:7iXV74Ij5lEvt6Msi4e12z"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mbgj8ERPs8lWi7t5cYrdy",
+        "id" : "1mbgj8ERPs8lWi7t5cYrdy",
+        "name" : "Zaz",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mbgj8ERPs8lWi7t5cYrdy"
+      } ],
+      "available_markets" : [ "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DZ", "EC", "EE", "EG", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JO", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 197577,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR2PY1403250"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5YulgBMVGC8EzuuIQsIke3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5YulgBMVGC8EzuuIQsIke3",
+      "id" : "5YulgBMVGC8EzuuIQsIke3",
+      "is_local" : false,
+      "name" : "Sous le ciel de Paris",
+      "popularity" : 43,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fa60bd26c17ab562564614203c58758bbc1ef634?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5YulgBMVGC8EzuuIQsIke3"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-05-04T17:21:59Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+          "id" : "2eRNMtoi82UZUuaL6naDjA",
+          "name" : "Cœur De Pirate",
+          "type" : "artist",
+          "uri" : "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+        } ],
+        "available_markets" : [ "AE", "AL", "AR", "AT", "AU", "BA", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LV", "MA", "MD", "MK", "MT", "MX", "MY", "NI", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4rb0ToWRx0JUKakgtc8VOy",
+        "id" : "4rb0ToWRx0JUKakgtc8VOy",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273462e9a785c7f7f99c6dfb06d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02462e9a785c7f7f99c6dfb06d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851462e9a785c7f7f99c6dfb06d",
+          "width" : 64
+        } ],
+        "name" : "Roses (Deluxe Edition)",
+        "release_date" : "2015",
+        "release_date_precision" : "year",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4rb0ToWRx0JUKakgtc8VOy"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+        "id" : "2eRNMtoi82UZUuaL6naDjA",
+        "name" : "Cœur De Pirate",
+        "type" : "artist",
+        "uri" : "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+      } ],
+      "available_markets" : [ "AE", "AL", "AR", "AT", "AU", "BA", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LV", "MA", "MD", "MK", "MT", "MX", "MY", "NI", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 215720,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAD431506202"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3lij9WKWJ1k89thmWGMaqr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3lij9WKWJ1k89thmWGMaqr",
+      "id" : "3lij9WKWJ1k89thmWGMaqr",
+      "is_local" : false,
+      "name" : "Oublie-moi - Carry On",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1f5d8ddc9c1d36246f9eb401d03ed7fdda7a7fe5?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:3lij9WKWJ1k89thmWGMaqr"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-05-04T17:22:13Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+          "id" : "2eRNMtoi82UZUuaL6naDjA",
+          "name" : "Cœur De Pirate",
+          "type" : "artist",
+          "uri" : "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+        } ],
+        "available_markets" : [ "AE", "AL", "AR", "AT", "AU", "BA", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LV", "MA", "MD", "MK", "MT", "MX", "MY", "NI", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4rb0ToWRx0JUKakgtc8VOy",
+        "id" : "4rb0ToWRx0JUKakgtc8VOy",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273462e9a785c7f7f99c6dfb06d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02462e9a785c7f7f99c6dfb06d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851462e9a785c7f7f99c6dfb06d",
+          "width" : 64
+        } ],
+        "name" : "Roses (Deluxe Edition)",
+        "release_date" : "2015",
+        "release_date_precision" : "year",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:4rb0ToWRx0JUKakgtc8VOy"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2eRNMtoi82UZUuaL6naDjA",
+        "id" : "2eRNMtoi82UZUuaL6naDjA",
+        "name" : "Cœur De Pirate",
+        "type" : "artist",
+        "uri" : "spotify:artist:2eRNMtoi82UZUuaL6naDjA"
+      } ],
+      "available_markets" : [ "AE", "AL", "AR", "AT", "AU", "BA", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LV", "MA", "MD", "MK", "MT", "MX", "MY", "NI", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 204226,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "CAD431506208"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2MSWNWycLHMjKmcovTkZlw"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2MSWNWycLHMjKmcovTkZlw",
+      "id" : "2MSWNWycLHMjKmcovTkZlw",
+      "is_local" : false,
+      "name" : "Drapeau blanc",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8dccf0b57d1978aec984d37f3c6ba57a9b7e774c?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:2MSWNWycLHMjKmcovTkZlw"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-05-04T17:23:06Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4C0r0nZOGwHmybNFmhMtvO",
+          "id" : "4C0r0nZOGwHmybNFmhMtvO",
+          "name" : "Damien Sargue",
+          "type" : "artist",
+          "uri" : "spotify:artist:4C0r0nZOGwHmybNFmhMtvO"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7AGiDF2Rd1iX80GSauaL46",
+        "id" : "7AGiDF2Rd1iX80GSauaL46",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ca621f5e09f1af317fd4e84a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ca621f5e09f1af317fd4e84a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ca621f5e09f1af317fd4e84a",
+          "width" : 64
+        } ],
+        "name" : "Roméo Et Juliette, Les enfants de Vérone",
+        "release_date" : "2009-12-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 43,
+        "type" : "album",
+        "uri" : "spotify:album:7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YCF40DrzPnznumGqOl9wb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YCF40DrzPnznumGqOl9wb",
+        "id" : "1YCF40DrzPnznumGqOl9wb",
+        "name" : "Stéphane Métro",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YCF40DrzPnznumGqOl9wb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 220680,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W10904376"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3q8nnXX0R2qeae0poz50A7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3q8nnXX0R2qeae0poz50A7",
+      "id" : "3q8nnXX0R2qeae0poz50A7",
+      "is_local" : false,
+      "name" : "Vérone - Roméo & Juliette, Les enfants de Vérone",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/08ec4d0d23da52d14270a292ba3cb41059ea23f7?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:3q8nnXX0R2qeae0poz50A7"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-05-04T17:23:09Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4C0r0nZOGwHmybNFmhMtvO",
+          "id" : "4C0r0nZOGwHmybNFmhMtvO",
+          "name" : "Damien Sargue",
+          "type" : "artist",
+          "uri" : "spotify:artist:4C0r0nZOGwHmybNFmhMtvO"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7AGiDF2Rd1iX80GSauaL46",
+        "id" : "7AGiDF2Rd1iX80GSauaL46",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ca621f5e09f1af317fd4e84a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ca621f5e09f1af317fd4e84a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ca621f5e09f1af317fd4e84a",
+          "width" : 64
+        } ],
+        "name" : "Roméo Et Juliette, Les enfants de Vérone",
+        "release_date" : "2009-12-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 43,
+        "type" : "album",
+        "uri" : "spotify:album:7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6iFLZFInzF1RmIFLMWqppL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6iFLZFInzF1RmIFLMWqppL",
+        "id" : "6iFLZFInzF1RmIFLMWqppL",
+        "name" : "Brigitte Venditti",
+        "type" : "artist",
+        "uri" : "spotify:artist:6iFLZFInzF1RmIFLMWqppL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jqzkjNsHjbmQ2T1XrQEUZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jqzkjNsHjbmQ2T1XrQEUZ",
+        "id" : "5jqzkjNsHjbmQ2T1XrQEUZ",
+        "name" : "Stéphanie Rodrigue",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jqzkjNsHjbmQ2T1XrQEUZ"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 232053,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W10904377"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4gQZdPLIBjosiM98w8wDQv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4gQZdPLIBjosiM98w8wDQv",
+      "id" : "4gQZdPLIBjosiM98w8wDQv",
+      "is_local" : false,
+      "name" : "La haine - Roméo & Juliette, Les enfants de Vérone",
+      "popularity" : 31,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f16823167db8c6ffb36bfaef7355c41e6544df8b?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:4gQZdPLIBjosiM98w8wDQv"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-05-04T17:23:16Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4C0r0nZOGwHmybNFmhMtvO",
+          "id" : "4C0r0nZOGwHmybNFmhMtvO",
+          "name" : "Damien Sargue",
+          "type" : "artist",
+          "uri" : "spotify:artist:4C0r0nZOGwHmybNFmhMtvO"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7AGiDF2Rd1iX80GSauaL46",
+        "id" : "7AGiDF2Rd1iX80GSauaL46",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ca621f5e09f1af317fd4e84a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ca621f5e09f1af317fd4e84a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ca621f5e09f1af317fd4e84a",
+          "width" : 64
+        } ],
+        "name" : "Roméo Et Juliette, Les enfants de Vérone",
+        "release_date" : "2009-12-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 43,
+        "type" : "album",
+        "uri" : "spotify:album:7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4C0r0nZOGwHmybNFmhMtvO",
+        "id" : "4C0r0nZOGwHmybNFmhMtvO",
+        "name" : "Damien Sargue",
+        "type" : "artist",
+        "uri" : "spotify:artist:4C0r0nZOGwHmybNFmhMtvO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5yIbkMHQyrQ5eNWaFtlXpX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5yIbkMHQyrQ5eNWaFtlXpX",
+        "id" : "5yIbkMHQyrQ5eNWaFtlXpX",
+        "name" : "Joy Esther",
+        "type" : "artist",
+        "uri" : "spotify:artist:5yIbkMHQyrQ5eNWaFtlXpX"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 225560,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W10904382"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/45qBlTsBxuwDxJUmBRCv1m"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/45qBlTsBxuwDxJUmBRCv1m",
+      "id" : "45qBlTsBxuwDxJUmBRCv1m",
+      "is_local" : false,
+      "name" : "Un jour - Roméo & Juliette, Les enfants de Vérone",
+      "popularity" : 28,
+      "preview_url" : "https://p.scdn.co/mp3-preview/319e452b6f8d7653c9bb6b7f0469cede86815832?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:45qBlTsBxuwDxJUmBRCv1m"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-05-04T17:23:29Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4C0r0nZOGwHmybNFmhMtvO",
+          "id" : "4C0r0nZOGwHmybNFmhMtvO",
+          "name" : "Damien Sargue",
+          "type" : "artist",
+          "uri" : "spotify:artist:4C0r0nZOGwHmybNFmhMtvO"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7AGiDF2Rd1iX80GSauaL46",
+        "id" : "7AGiDF2Rd1iX80GSauaL46",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273ca621f5e09f1af317fd4e84a",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02ca621f5e09f1af317fd4e84a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851ca621f5e09f1af317fd4e84a",
+          "width" : 64
+        } ],
+        "name" : "Roméo Et Juliette, Les enfants de Vérone",
+        "release_date" : "2009-12-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 43,
+        "type" : "album",
+        "uri" : "spotify:album:7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4C0r0nZOGwHmybNFmhMtvO",
+        "id" : "4C0r0nZOGwHmybNFmhMtvO",
+        "name" : "Damien Sargue",
+        "type" : "artist",
+        "uri" : "spotify:artist:4C0r0nZOGwHmybNFmhMtvO"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 236906,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR9W10904385"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/36zcMXKbSasbbq5JvGEF1y"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/36zcMXKbSasbbq5JvGEF1y",
+      "id" : "36zcMXKbSasbbq5JvGEF1y",
+      "is_local" : false,
+      "name" : "J'ai peur - Roméo & Juliette, Les enfants de Vérone",
+      "popularity" : 29,
+      "preview_url" : "https://p.scdn.co/mp3-preview/38a779240c3596d025ba6c3f8952576cff088390?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:36zcMXKbSasbbq5JvGEF1y"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-05-13T18:04:52Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/wqoukkfxq64joik3pi46fj63g"
+      },
+      "href" : "https://api.spotify.com/v1/users/wqoukkfxq64joik3pi46fj63g",
+      "id" : "wqoukkfxq64joik3pi46fj63g",
+      "type" : "user",
+      "uri" : "spotify:user:wqoukkfxq64joik3pi46fj63g"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3KNZ9AOjBajjmr6ZR2VGfl",
+          "id" : "3KNZ9AOjBajjmr6ZR2VGfl",
+          "name" : "Il Divo",
+          "type" : "artist",
+          "uri" : "spotify:artist:3KNZ9AOjBajjmr6ZR2VGfl"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/43DodUjOrqFTzeKZ2F5WrY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/43DodUjOrqFTzeKZ2F5WrY",
+        "id" : "43DodUjOrqFTzeKZ2F5WrY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27344f0dc9ac835faa8145f0dce",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0244f0dc9ac835faa8145f0dce",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485144f0dc9ac835faa8145f0dce",
+          "width" : 64
+        } ],
+        "name" : "A Musical Affair (French Version)",
+        "release_date" : "2014-11-24",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:43DodUjOrqFTzeKZ2F5WrY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iZC2I6gz8gI0BLe2boBZR",
+        "id" : "7iZC2I6gz8gI0BLe2boBZR",
+        "name" : "Riccardo Cocciante",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iZC2I6gz8gI0BLe2boBZR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3KNZ9AOjBajjmr6ZR2VGfl",
+        "id" : "3KNZ9AOjBajjmr6ZR2VGfl",
+        "name" : "Il Divo",
+        "type" : "artist",
+        "uri" : "spotify:artist:3KNZ9AOjBajjmr6ZR2VGfl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0g7hZVprd3orBpMrSLWeJ9",
+        "id" : "0g7hZVprd3orBpMrSLWeJ9",
+        "name" : "Florent Pagny",
+        "type" : "artist",
+        "uri" : "spotify:artist:0g7hZVprd3orBpMrSLWeJ9"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/711LUi1Xgy0pvygBRIxofb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/711LUi1Xgy0pvygBRIxofb",
+        "id" : "711LUi1Xgy0pvygBRIxofb",
+        "name" : "David Hernando",
+        "type" : "artist",
+        "uri" : "spotify:artist:711LUi1Xgy0pvygBRIxofb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 282160,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBHMU1400285"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Cw8ydlMY5XdrPVhjtLm04"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Cw8ydlMY5XdrPVhjtLm04",
+      "id" : "7Cw8ydlMY5XdrPVhjtLm04",
+      "is_local" : false,
+      "name" : "Belle (with Florent Pagny)",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1c922601fd5e25c1ab18e5532f12e2d17a30b2ab?cid=82eb0d09087e4362b76a07eacc502052",
+      "track" : true,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7Cw8ydlMY5XdrPVhjtLm04"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  } ],
+  "limit" : 100,
+  "next" : null,
+  "offset" : 0,
+  "previous" : null,
+  "total" : 9
+}
